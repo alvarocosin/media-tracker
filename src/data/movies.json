@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Inception",
+      "year": 2010,
+      "dateWatched": "2023-06-12",
+      "posterUrl": "/images/movies/inception.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "dateWatched": "2023-06-15",
+      "posterUrl": "/images/movies/matrix.jpg"
+    }
+]
