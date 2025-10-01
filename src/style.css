@@ -1,8 +1,9 @@
 .media-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, 150px); /* fixed width */
   gap: 1rem;
   padding: 1rem;
+  justify-content: start; /* align cards to left instead of stretching */
 }
 
 .media-card {
