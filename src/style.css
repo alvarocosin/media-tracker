@@ -1,13 +1,13 @@
 .media-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 170px); /* fixed width */
+  grid-template-columns: repeat(auto-fill, 180px); /* fixed width */
   gap: 1.5rem;
   padding: 1rem;
   justify-content: start; /* align cards to left instead of stretching */
 }
 
 .media-card {
-  background: #1c1c1c;
+  background: #222832;
   color: #ddd;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -21,7 +21,7 @@
 
 .media-card img {
   width: 100%;
-  height: 220px;
+  height: 240px;
   object-fit: cover;
 }
 
@@ -34,7 +34,7 @@
 
 .media-info h3 {
   font-size: 1.1rem;
-  color: #f5c518;
+  color: #E7A117;
   margin: 0;
   margin-top: 10px;
   line-height: 1.2;
@@ -49,13 +49,13 @@
 
 .media-info .director,
 .media-info .meta {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: #ddd;
-  margin: 0;
+  margin: 3px;
 }
 
 .media-info .watched {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: #999;
   margin: 0.5;
 }
@@ -70,10 +70,10 @@
 .big-button {
   display: inline-block;
   padding: 2rem 3rem;
-  background-color: #f5c518;
+  background-color: #E7A117;
   color: #111;
   font-size: 1.5rem;
-  font-family: 'Cinzel', serif;
+  font-family: 'B612', sans-serif;
   border-radius: 12px;
   text-decoration: none;
   text-align: center;
@@ -84,12 +84,13 @@
 }
 
 body {
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* dark gradient */
+  background: #2F3847; /* dark gradient */
   color: #eee;
-  font-family: 'Roboto', sans-serif;
+  font-family: "B612", sans-serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Cinzel', serif;
-  color: #f5c518; /* IMDb yellow accent */
+  font-family: "B612" sans-serif;
+  margin-left: 2%;
+  color: #C57F1E; /* IMDb yellow accent */
 }
