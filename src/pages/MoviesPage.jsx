@@ -61,27 +61,41 @@ export default function MoviesPage() {
 
   return (
     <div>
-
       {Object.keys(groupedMovies)
-        .sort((a, b) => b - a) // show latest year first
+        .sort((a, b) => b - a) // latest year first
         .map((year) => (
           <div key={year}>
             <h2>{year}</h2>
+  
             {Object.keys(groupedMovies[year])
               .sort(
                 (a, b) =>
-                  new Date(`${a} 1, ${year}`) -
-                  new Date(`${b} 1, ${year}`)
-              )
-              .map((month) => (
-                <div key={month}>
-                  <h3>{month}</h3>
-                  <MediaGrid items={groupedMovies[year][month]} />
-                </div>
-              ))}
+                  new Date(`${b} 1, ${year}`) -
+                  new Date(`${a} 1, ${year}`)
+              ) // 🔹 reverse month order (Dec → Jan)
+              .map((month) => {
+                let sortedMovies = [...groupedMovies[year][month]].sort(
+                  (a, b) => new Date(b.dateWatched) - new Date(a.dateWatched)
+                );
+                
+                // 🔹 If all movies have the same date (e.g., no variation), reverse manually
+                const allDatesEqual = sortedMovies.every(
+                  (m) => m.dateWatched === sortedMovies[0].dateWatched
+                );
+                if (allDatesEqual) {
+                  sortedMovies = sortedMovies.reverse();
+                }
+  
+                return (
+                  <div key={month}>
+                    <h3>{month}</h3>
+                    <MediaGrid items={sortedMovies} />
+                  </div>
+                );
+              })}
           </div>
         ))}
-
+  
       <Link to="/" className="big-button">Back to Home</Link>
     </div>
   );
