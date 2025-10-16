@@ -61,7 +61,6 @@ export default function MoviesPage() {
 
   return (
     <div>
-      <h1>Movies</h1>
 
       {Object.keys(groupedMovies)
         .sort((a, b) => b - a) // show latest year first

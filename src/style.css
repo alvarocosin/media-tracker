@@ -1,8 +1,16 @@
+/* Reset default browser spacing */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 .media-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, 180px); /* fixed width */
   gap: 1.5rem;
   padding: 1rem;
+  margin: 1%;
   justify-content: start; /* align cards to left instead of stretching */
 }
 
@@ -93,4 +101,62 @@ h1, h2, h3 {
   font-family: "B612" sans-serif;
   margin-left: 2%;
   color: #C57F1E; /* IMDb yellow accent */
+}
+
+/* --- NAVBAR --- */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #222832;
+  padding: 0.8rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.navbar-logo {
+  color: #E7A117;
+  font-family: "B612", sans-serif;
+  font-size: 1.4rem;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.navbar-logo:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.navbar-links a {
+  color: #ddd;
+  text-decoration: none;
+  font-family: "B612", sans-serif;
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem; /* adds clickable space like a button */
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.navbar-links a:hover {
+  background-color: rgba(231, 161, 23, 0.15); /* faint yellow background */
+  color: #E7A117;
+}
+
+.navbar-links a.active {
+  background-color: #E7A117;
+  color: #111;
+  font-weight: 600;
+}
+
+/* push page content below the sticky navbar */
+.app-content {
+  padding-top: 30px; /* adjust if your navbar height is different */
 }
