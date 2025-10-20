@@ -100,7 +100,7 @@ body {
 h1, h2, h3 {
   font-family: "B612" sans-serif;
   margin-left: 2%;
-  color: #C57F1E; /* IMDb yellow accent */
+  color: #E7A117; /* IMDb yellow accent */
 }
 
 /* --- NAVBAR --- */
@@ -117,7 +117,7 @@ h1, h2, h3 {
 }
 
 .navbar-logo {
-  color: #E7A117;
+  color: #fff;
   font-family: "B612", sans-serif;
   font-size: 1.4rem;
   text-decoration: none;
@@ -158,5 +158,58 @@ h1, h2, h3 {
 
 /* push page content below the sticky navbar */
 .app-content {
-  padding-top: 30px; /* adjust if your navbar height is different */
+  padding-top: 10px; /* adjust if your navbar height is different */
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  gap: 2rem;
+}
+
+/* The buttons themselves */
+.home-button {
+  display: flex;
+  flex-direction: column; /* icon above text */
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #637697;
+  color: #fff;
+  border-radius: 10px;
+  width: 22vw; /* 25% of viewport width */
+  height: 50vh; /* 25% of viewport height */
+  font-size: 1.3rem;   /* slightly larger text */
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.home-button:hover {
+  background-color: #E7A117;
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* The image inside the button */
+.home-button img {
+  width: 35%;     /* adjust to your liking */
+  height: 35%;    /* adjust to your liking */
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+/* The label text */
+.home-button span {
+  font-family: "B612", sans-serif;
+}
+
+@media (min-width: 768px) {
+  .home-container {
+    flex-direction: row;
+    gap: 3rem;
+  }
 }

@@ -7,7 +7,7 @@ export default function NavBar() {
   return (
     <nav className="navbar">
       <Link to="/" className="navbar-logo">
-        🎬 MediaTracker
+        📝 MediaTracker
       </Link>
 
       <div className="navbar-links">
