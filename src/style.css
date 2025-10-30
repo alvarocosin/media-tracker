@@ -214,74 +214,8 @@ h1, h2, h3 {
   }
 }
 
-/* --- RESPONSIVE DESIGN --- */
-@media (max-width: 768px) {
-  /* NavBar */
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 1rem;
-  }
-
-  .navbar-links {
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: flex-start;
-  }
-
-  /* Home buttons */
-  .home-container {
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-
-  .home-button {
-    width: 80%;
-    max-width: 300px;
-    padding: 2rem;
-    font-size: 1.5rem;
-  }
-
-  .home-button img {
-    width: 40px;
-    height: 40px;
-  }
-
-  /* Media grid */
-  .media-grid {
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    gap: 1rem;
-    padding: 0.5rem;
-  }
-
-  .media-card img {
-    height: 200px;
-  }
-
-  /* Headings */
-  h1, h2, h3 {
-    margin-left: 1rem;
-    font-size: 1.2rem;
-  }
-
-  /* Buttons */
-  .big-button {
-    padding: 1.5rem 2rem;
-    font-size: 1.2rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .navbar-links {
-    flex-direction: column;
-    width: 100%;
-  }
-
-  .media-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .media-card img {
-    height: 180px;
-  }
+.favorite {
+  color: #eb4e3c; /* red heart */
+  font-size: 1.1rem;
+  margin-left: 0.5rem;
 }

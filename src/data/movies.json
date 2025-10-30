@@ -1,349 +1,2738 @@
 [
-  { "title": "El milagro de P. Tinto", "year": 1998, "director": "Javier Fesser", "dateWatched": "2025-01-06", "posterUrl": "/default-poster.png" },
-  { "title": "La guitarra flamenca de Yerai Cortés", "year": 2024, "director": "C. Tangana", "dateWatched": "2025-01-10", "posterUrl": "/default-poster.png" },
-  { "title": "A Real Pain", "year": 2024, "director": "Jesse Eisenberg", "dateWatched": "2025-01-31", "posterUrl": "/default-poster.png" },
-  { "title": "Conclave", "year": 2024, "director": "Edward Berger", "dateWatched": "2025-02-02", "posterUrl": "/default-poster.png" },
-  { "title": "The Brutalist", "year": 2024, "director": "Brady Corbet", "dateWatched": "2025-02-05", "posterUrl": "/default-poster.png" },
-  { "title": "Cómo hacerse millonario antes de que muera la abuela", "year": 2024, "director": "Pat Boonnitipat", "dateWatched": "2025-02-09", "posterUrl": "/default-poster.png" },
-  { "title": "Heretic", "year": 2024, "director": "Scott Beck, Bryan Woods", "dateWatched": "2025-02-13", "posterUrl": "/default-poster.png" },
-  { "title": "Incendies", "year": 2010, "director": "Denis Villeneuve", "dateWatched": "2025-02-27", "posterUrl": "/default-poster.png" },
-  { "title": "Mickey 17", "year": 2025, "director": "Bong Joonho", "dateWatched": "2025-03-07", "posterUrl": "/default-poster.png" },
-  { "title": "Mulholland Drive", "year": 2001, "director": "David Lynch", "dateWatched": "2025-03-12", "posterUrl": "/default-poster.png" },
-  { "title": "Bowling for Columbine", "year": 2002, "director": "Michael Moore", "dateWatched": "2025-05-04", "posterUrl": "/default-poster.png" },
-  { "title": "Sinners", "year": 2025, "director": "Ryan Coogler", "dateWatched": "2025-05-08", "posterUrl": "/default-poster.png" },
-  { "title": "Partir un jour", "year": 2025, "director": "Amelie Bonnin", "dateWatched": "2025-05-14", "posterUrl": "/default-poster.png" },
-  { "title": "Sound of Falling", "year": 2025, "director": "Mascha Schilinski", "dateWatched": "2025-05-15", "posterUrl": "/default-poster.png" },
-  { "title": "Two Prosecutors", "year": 2025, "director": "Sergei Loznitsa", "dateWatched": "2025-05-15", "posterUrl": "/default-poster.png" },
-  { "title": "La misteriosa mirada del flamenco", "year": 2025, "director": "Diego Céspedes", "dateWatched": "2025-05-16", "posterUrl": "/default-poster.png" },
-  { "title": "Sirat", "year": 2025, "director": "Oliver Laxe", "dateWatched": "2025-05-16", "posterUrl": "/default-poster.png" },
-  { "title": "A Pale View of Hills", "year": 2025, "director": "Kei Ishikawa", "dateWatched": "2025-05-16", "posterUrl": "/default-poster.png" },
-  { "title": "Mysterious Skin", "year": 2004, "director": "Gregg Araki", "dateWatched": "2025-05-29", "posterUrl": "/default-poster.png" },
-  { "title": "Rogue One", "year": 2016, "director": "Gareth Edwards", "dateWatched": "2025-05-30", "posterUrl": "/default-poster.png" },
-  { "title": "Final Destination Bloodlines", "year": 2025, "director": "Zach Lipovsky", "dateWatched": "2025-06-14", "posterUrl": "/default-poster.png" },
-  { "title": "Companion", "year": 2025, "director": "Drew Hancock", "dateWatched": "2025-06-22", "posterUrl": "/default-poster.png" },
-  { "title": "Trainspotting", "year": 1996, "director": "Danny Boyle", "dateWatched": "2025-06-25", "posterUrl": "/default-poster.png" },
-  { "title": "28 Days Later", "year": 2002, "director": "Danny Boyle", "dateWatched": "2025-06-25", "posterUrl": "/default-poster.png" },
-  { "title": "Napoleon Dynamite", "year": 2004, "director": "Jared Hess", "dateWatched": "2025-06-26", "posterUrl": "/default-poster.png" },
-  { "title": "La Pianiste", "year": 2001, "director": "Michael Haneke", "dateWatched": "2025-06-27", "posterUrl": "/default-poster.png" },
-  { "title": "28 Weeks Later", "year": 2007, "director": "Juan Carlos Fresnadillo", "dateWatched": "2025-07-02", "posterUrl": "/default-poster.png" },
-  { "title": "First Reformed", "year": 2017, "director": "Paul Schrader", "dateWatched": "2025-07-03", "posterUrl": "/default-poster.png" },
-  { "title": "28 Years Later", "year": 2025, "director": "Danny Boyle", "dateWatched": "2025-07-04", "posterUrl": "/default-poster.png" },
-  { "title": "A Woman Under the Influence", "year": 1974, "director": "John Cassavetes", "dateWatched": "2025-07-06", "posterUrl": "/default-poster.png" },
-  { "title": "Superman", "year": 2025, "director": "James Gunn", "dateWatched": "2025-07-12", "posterUrl": "/default-poster.png" },
-  { "title": "Paterson", "year": 2016, "director": "Jim Jarmusch", "dateWatched": "2025-07-30", "posterUrl": "/default-poster.png" },
-  { "title": "Audition", "year": 1999, "director": "Takashi Miike", "dateWatched": "2025-07-31", "posterUrl": "/default-poster.png" },
-  { "title": "Bring Her Back", "year": 2025, "director": "Danny and Michael Philippou", "dateWatched": "2025-08-06", "posterUrl": "/default-poster.png" },
-  { "title": "La Chimera", "year": 2023, "director": "Alice Rohrwacher", "dateWatched": "2025-08-07", "posterUrl": "/default-poster.png" },
-  { "title": "Mishima: A Life in Four Chapters", "year": 1985, "director": "Paul Schrader", "dateWatched": "2025-08-12", "posterUrl": "/default-poster.png" },
-  { "title": "Red Rocket", "year": 2021, "director": "Sean Baker", "dateWatched": "2025-08-13", "posterUrl": "/default-poster.png" },
-  { "title": "Weapons", "year": 2025, "director": "Zach Cregger", "dateWatched": "2025-08-14", "posterUrl": "/default-poster.png" },
-  { "title": "Prisoners", "year": 2013, "director": "Denis Villeneuve", "dateWatched": "2025-08-15", "posterUrl": "/default-poster.png" },
-  { "title": "Pulse", "year": 2001, "director": "Kiyoshi Kurosawa", "dateWatched": "2025-08-16", "posterUrl": "/default-poster.png" },
-  { "title": "Scary Movie", "year": 2000, "director": "Keenen Ivory Wayans", "dateWatched": "2025-08-17", "posterUrl": "/default-poster.png" },
-  { "title": "Already Tomorrow in Hong Kong", "year": 2015, "director": "Emily Ting", "dateWatched": "2025-08-18", "posterUrl": "/default-poster.png" },
-  { "title": "Les Glaneurs et la Glaneuse", "year": 2000, "director": "Agnès Varda", "dateWatched": "2025-08-22", "posterUrl": "/default-poster.png" },
-  { "title": "Blow Up", "year": 1966, "director": "Michelangelo Antonioni", "dateWatched": "2025-08-24", "posterUrl": "/default-poster.png" },
-  { "title": "Beau Travail", "year": 1999, "director": "Claire Denis", "dateWatched": "2025-08-25", "posterUrl": "/default-poster.png" },
-  { "title": "Medianeras", "year": 2011, "director": "Gustavo Taretto", "dateWatched": "2025-08-26", "posterUrl": "/default-poster.png" },
-  { "title": "Good Time", "year": 2017, "director": "Benny Safdie, Joshua Safdie", "dateWatched": "2025-08-28", "posterUrl": "/default-poster.png" },
-  { "title": "Unknown Number: The High School Catfish", "year": 2025, "director": "Skye Borgman", "dateWatched": "2025-08-31", "posterUrl": "/default-poster.png" },
-  { "title": "Jesus Camp", "year": 2006, "director": "Heidi Ewing, Rachel Grady", "dateWatched": "2025-09-01", "posterUrl": "/default-poster.png" },
-  { "title": "Ran", "year": 1985, "director": "Akira Kurosawa", "dateWatched": "2025-09-03", "posterUrl": "/default-poster.png" },
-  { "title": "Tar", "year": 2022, "director": "Todd Field", "dateWatched": "2025-09-06", "posterUrl": "/default-poster.png" },
-  { "title": "The Act of Killing", "year": 2012, "director": "Joshua Oppenheimer", "dateWatched": "2025-09-06", "posterUrl": "/default-poster.png" },
-  { "title": "Romeria", "year": 2025, "director": "Carla Simón", "dateWatched": "2025-09-10", "posterUrl": "/default-poster.png" },
-  { "title": "Lilo & Stitch", "year": 2025, "director": "Dean Fleischer Camp", "dateWatched": "2025-09-14", "posterUrl": "/default-poster.png" },
-  { "title": "Ju-On: The Grudge", "year": 2002, "director": "Takashi Shimizu", "dateWatched": "2025-09-14", "posterUrl": "/default-poster.png" },
-  { "title": "The Others", "year": 2001, "director": "Alejandro Amenábar", "dateWatched": "2025-09-20", "posterUrl": "/default-poster.png" },
-  { "title": "Elephant", "year": 2003, "director": "Gus Van Sant", "dateWatched": "2025-09-20", "posterUrl": "/default-poster.png" },
-  { "title": "Eddington", "year": 2025, "director": "Ari Aster", "dateWatched": "2025-09-23", "posterUrl": "/default-poster.png" },
-  { "title": "One Battle After Another", "year": 2025, "director": "Paul Thomas Anderson", "dateWatched": "2025-09-26", "posterUrl": "/default-poster.png" },
-  { "title": "Playtime", "year": 1967, "director": "Jacques Tati", "dateWatched": "2025-09-30", "posterUrl": "/default-poster.png" },
-  { "title": "The Texas Chain Saw Massacre", "year": 1974, "director": "Tobe Hooper", "dateWatched": "2025-10-01", "posterUrl": "/default-poster.png" },
-  { "title": "It's Such a Beautiful Day", "year": 2012, "director": "Don Hertzfeldt", "dateWatched": "2025-10-01", "posterUrl": "/default-poster.png" },
-  { "title": "Rosemary’s Baby", "year": 1968, "director": "Roman Polanski", "dateWatched": "2025-10-02", "posterUrl": "/default-poster.png" },
-  { "title": "Lake Mungo", "year": 2008, "director": "Joel Anderson", "dateWatched": "2025-10-03", "posterUrl": "/default-poster.png" },
-  { "title": "Halloween", "year": 1978, "director": "John Carpenter", "dateWatched": "2025-10-05", "posterUrl": "/default-poster.png" },
-  { "title": "The Thin Blue Line", "year": 1988, "director": "Errol Morris", "dateWatched": "2025-10-07", "posterUrl": "/default-poster.png" },
-  { "title": "The Smashing Machine", "year": 2025, "director": "Benny Safdie", "dateWatched": "2025-10-08", "posterUrl": "/default-poster.png" },
-  { "title": "Twinless", "year": 2025, "director": "James Sweeney", "dateWatched": "2025-10-12", "posterUrl": "/default-poster.png" },
-  { "title": "The Exorcist", "year": 1973, "director": "William Friedkin", "dateWatched": "2025-10-14", "posterUrl": "/default-poster.png" },
-
-  { "title": "Anatomía de una caída", "year": 2023, "director": "Justine Triet", "dateWatched": "2024-01-02", "posterUrl": "/default-poster.png" },
-  { "title": "Fallen Leaves", "year": 2023, "director": "Aki Kaurismäki", "dateWatched": "2024-01-03", "posterUrl": "/default-poster.png" },
-  { "title": "La sociedad de la nieve", "year": 2023, "director": "J.A. Bayona", "dateWatched": "2024-01-05", "posterUrl": "/default-poster.png" },
-  { "title": "Saltburn", "year": 2023, "director": "Emerald Fennell", "dateWatched": "2024-01-06", "posterUrl": "/default-poster.png" },
-  { "title": "Perfect Days", "year": 2023, "director": "Wim Wenders", "dateWatched": "2024-01-13", "posterUrl": "/default-poster.png" },
-  { "title": "The Redeem Team", "year": 2022, "director": "Jon Weinbach", "dateWatched": "2024-01-26", "posterUrl": "/default-poster.png" },
-  { "title": "Poor Things", "year": 2023, "director": "Yorgos Lanthimos", "dateWatched": "2024-01-28", "posterUrl": "/default-poster.png" },
-  { "title": "The Holdovers", "year": 2023, "director": "Alexander Payne", "dateWatched": "2024-01-31", "posterUrl": "/default-poster.png" },
-  { "title": "Dream Scenario", "year": 2023, "director": "Kristoffer Borgli", "dateWatched": "2024-02-14", "posterUrl": "/default-poster.png" },
-  { "title": "The Zone of Interest", "year": 2023, "director": "Jonathan Glazer", "dateWatched": "2024-02-23", "posterUrl": "/default-poster.png" },
-  { "title": "Dune: Part Two", "year": 2024, "director": "Dennis Villeneuve", "dateWatched": "2024-03-01", "posterUrl": "/default-poster.png" },
-  { "title": "La estrella azul", "year": 2023, "director": "Javier Macipe", "dateWatched": "2024-03-17", "posterUrl": "/default-poster.png" },
-  { "title": "Twin Peaks: Fire Walk with Me", "year": 1992, "director": "David Lynch", "dateWatched": "2024-03-27", "posterUrl": "/default-poster.png" },
-  { "title": "Twin Peaks: The Missing Pieces", "year": 2014, "director": "David Lynch", "dateWatched": "2024-03-31", "posterUrl": "/default-poster.png" },
-  { "title": "Love Lies Bleeding", "year": 2024, "director": "Rose Glass", "dateWatched": "2024-04-19", "posterUrl": "/default-poster.png" },
-  { "title": "Stop Making Sense", "year": 1984, "director": "Jonathan Demme", "dateWatched": "2024-04-21", "posterUrl": "/default-poster.png" },
-  { "title": "Gladiator", "year": 2000, "director": "Ridley Scott", "dateWatched": "2024-05-19", "posterUrl": "/default-poster.png" },
-  { "title": "Before Sunrise", "year": 1995, "director": "Richard Linklater", "dateWatched": "2024-05-22", "posterUrl": "/default-poster.png" },
-  { "title": "After Hours", "year": 1985, "director": "Martin Scorsese", "dateWatched": "2024-05-27", "posterUrl": "/default-poster.png" },
-  { "title": "The Master", "year": 2012, "director": "Paul Thomas Anderson", "dateWatched": "2024-05-28", "posterUrl": "/default-poster.png" },
-  { "title": "Late Night with the Devil", "year": 2024, "director": "Cameron & Colin Cairnes", "dateWatched": "2024-06-03", "posterUrl": "/default-poster.png" },
-  { "title": "Haikyuu The Dumpster Battle", "year": 2024, "director": "Susumu Mitsunaka", "dateWatched": "2024-06-04", "posterUrl": "/default-poster.png" },
-  { "title": "El secreto de sus ojos", "year": 2009, "director": "Juan José Campanella", "dateWatched": "2024-06-08", "posterUrl": "/default-poster.png" },
-  { "title": "Challengers", "year": 2024, "director": "Luca Guadagnino", "dateWatched": "2024-06-08", "posterUrl": "/default-poster.png" },
-  { "title": "Lost Highway", "year": 1997, "director": "David Lynch", "dateWatched": "2024-06-22", "posterUrl": "/default-poster.png" },
-  { "title": "Decision to Leave", "year": 2022, "director": "Park Chanwook", "dateWatched": "2024-06-23", "posterUrl": "/default-poster.png" },
-  { "title": "The Godfather", "year": 1972, "director": "Francis Ford-Coppola", "dateWatched": "2024-06-24", "posterUrl": "/default-poster.png" },
-  { "title": "The Godfather Part II", "year": 1974, "director": "Francis Ford-Coppola", "dateWatched": "2024-06-25", "posterUrl": "/default-poster.png" },
-  { "title": "The Godfather Part III", "year": 1990, "director": "Francis Ford-Coppola", "dateWatched": "2024-06-26", "posterUrl": "/default-poster.png" },
-  { "title": "Before Sunset", "year": 2004, "director": "Richard Linklater", "dateWatched": "2024-07-26", "posterUrl": "/default-poster.png" },
-  { "title": "Petite Maman", "year": 2021, "director": "Céline Sciamma", "dateWatched": "2024-07-27", "posterUrl": "/default-poster.png" },
-  { "title": "Harakiri", "year": 1962, "director": "Masaki Kobayashi", "dateWatched": "2024-07-28", "posterUrl": "/default-poster.png" },
-  { "title": "Longlegs", "year": 2024, "director": "Oz Perkins", "dateWatched": "2024-08-12", "posterUrl": "/default-poster.png" },
-  { "title": "El conde de Montecristo", "year": 2024, "director": "Alexandre de La Patellière, Matthieu Delaporte", "dateWatched": "2024-08-13", "posterUrl": "/default-poster.png" },
-  { "title": "Hoop Dreams", "year": 1994, "director": "Steve James", "dateWatched": "2024-08-15", "posterUrl": "/default-poster.png" },
-  { "title": "Inland Empire", "year": 2006, "director": "David Lynch", "dateWatched": "2024-08-24", "posterUrl": "/default-poster.png" },
-  { "title": "Before Midnight", "year": 2013, "director": "Richard Linklater", "dateWatched": "2024-08-26", "posterUrl": "/default-poster.png" },
-  { "title": "Immaculate", "year": 2024, "director": "Michael Mohan", "dateWatched": "2024-09-03", "posterUrl": "/default-poster.png" },
-  { "title": "El infierno del odio", "year": 1963, "director": "Akira Kurosawa", "dateWatched": "2024-09-09", "posterUrl": "/default-poster.png" },
-  { "title": "Pulp Fiction", "year": 1994, "director": "Quentin Tarantino", "dateWatched": "2024-09-10", "posterUrl": "/default-poster.png" },
-  { "title": "Bottoms", "year": 2023, "director": "Emma Seligman", "dateWatched": "2024-09-12", "posterUrl": "/default-poster.png" },
-  { "title": "The Night of the Hunter", "year": 1955, "director": "Charles Laughton", "dateWatched": "2024-09-12", "posterUrl": "/default-poster.png" },
-  { "title": "Phantom Thread", "year": 2017, "director": "Paul Thomas Anderson", "dateWatched": "2024-09-16", "posterUrl": "/default-poster.png" },
-  { "title": "Licorice Pizza", "year": 2021, "director": "Paul Thomas Anderson", "dateWatched": "2024-09-19", "posterUrl": "/default-poster.png" },
-  { "title": "The Beach", "year": 2000, "director": "Danny Boyle", "dateWatched": "2024-09-23", "posterUrl": "/default-poster.png" },
-  { "title": "Hard Eight", "year": 1996, "director": "Paul Thomas Anderson", "dateWatched": "2024-09-24", "posterUrl": "/default-poster.png" },
-  { "title": "In the Mood for Love", "year": 2000, "director": "Wong Kar Wai", "dateWatched": "2024-09-25", "posterUrl": "/default-poster.png" },
-  { "title": "The Handmaiden", "year": 2016, "director": "Park Chanwook", "dateWatched": "2024-09-26", "posterUrl": "/default-poster.png" },
-  { "title": "Megalopolis", "year": 2024, "director": "Francis Ford Coppola", "dateWatched": "2024-09-27", "posterUrl": "/default-poster.png" },
-  { "title": "Inherent Vice", "year": 2014, "director": "Paul Thomas Anderson", "dateWatched": "2024-10-01", "posterUrl": "/default-poster.png" },
-  { "title": "Silence", "year": 2016, "director": "Martin Scorsese", "dateWatched": "2024-10-02", "posterUrl": "/default-poster.png" },
-  { "title": "Chime", "year": 2024, "director": "Kiyoshi Kurosawa", "dateWatched": "2024-10-02", "posterUrl": "/default-poster.png" },
-  { "title": "The Hangover Part II", "year": 2011, "director": "Todd Phillips", "dateWatched": "2024-10-05", "posterUrl": "/default-poster.png" },
-  { "title": "Evil Does Not Exist", "year": 2023, "director": "Ryūsuke Hamaguchi", "dateWatched": "2024-10-05", "posterUrl": "/default-poster.png" },
-  { "title": "Wild at Heart", "year": 1990, "director": "David Lynch", "dateWatched": "2024-10-06", "posterUrl": "/default-poster.png" },
-  { "title": "Aguirre, la cólera de Dios", "year": 1972, "director": "Werner Herzog", "dateWatched": "2024-10-06", "posterUrl": "/default-poster.png" },
-  { "title": "Ikiru", "year": 1952, "director": "Akira Kurosawa", "dateWatched": "2024-10-07", "posterUrl": "/default-poster.png" },
-  { "title": "Ghost Dog", "year": 1999, "director": "Jim Jarmusch", "dateWatched": "2024-10-09", "posterUrl": "/default-poster.png" },
-  { "title": "The Substance", "year": 2024, "director": "Coralie Fargeat", "dateWatched": "2024-10-13", "posterUrl": "/default-poster.png" },
-  { "title": "The Wild Robot", "year": 2024, "director": "Chris Sanders", "dateWatched": "2024-10-23", "posterUrl": "/default-poster.png" },
-  { "title": "Anora", "year": 2024, "director": "Sean Baker", "dateWatched": "2024-11-20", "posterUrl": "/default-poster.png" },
-  { "title": "I Saw the TV Glow", "year": 2024, "director": "Jane Schoenbrun", "dateWatched": "2024-11-24", "posterUrl": "/default-poster.png" },
-  { "title": "His Three Daughters", "year": 2024, "director": "Azazel Jacobs", "dateWatched": "2024-12-06", "posterUrl": "/default-poster.png" },
-  { "title": "Syndromes and a Century", "year": 2006, "director": "Apichatpong Weerasethakul", "dateWatched": "2024-12-10", "posterUrl": "/default-poster.png" },
-  { "title": "Eyes Wide Shut", "year": 1999, "director": "Stanley Kubrick", "dateWatched": "2024-12-20", "posterUrl": "/default-poster.png" },
-  { "title": "Nosferatu", "year": 2024, "director": "Robert Eggers", "dateWatched": "2024-12-26", "posterUrl": "/default-poster.png" },
-
-  { "title": "The Banshees of Inisherin", "year": 2022, "director": "Martin McDonagh", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Cinco lobitos", "year": 2022, "director": "Alauda Ruiz de Azúa", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Argentina 1985", "year": 2022, "director": "Santiago Mitre", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "I, Daniel Blake", "year": 2016, "director": "Ken Loach", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Barry Lyndon", "year": 1975, "director": "Stanley Kubrick", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Notting Hill", "year": 1999, "director": "Roger Michell", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Babylon", "year": 2022, "director": "Damien Chazelle", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Close", "year": 2022, "director": "Lukas Dhont", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Treasure of Sierra Madre", "year": 1948, "director": "John Huston", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "¿Dónde está la casa de mi amigo?", "year": 1987, "director": "Abbas Kiarostami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Primer plano", "year": 1990, "director": "Abbas Kiarostami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Game", "year": 1997, "director": "David Fincher", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Whale", "year": 2022, "director": "Darren Aronofsky", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Witness for the Prosecution", "year": 1957, "director": "Billy Wilder", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Y la vida continúa", "year": 1992, "director": "Abbas Kiarostami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Green Book", "year": 2018, "director": "Peter Farrelly", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "A través de los olivos", "year": 1994, "director": "Abbas Kiarostami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Magnolia", "year": 1999, "director": "Paul Thomas Anderson", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Apocalypse Now", "year": 1979, "director": "Francis Ford Coppola", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Amadeus", "year": 1984, "director": "Milos Forman", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Quiéreme si te atreves", "year": 2003, "director": "Yann Samuell", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Punch-Drunk Love", "year": 2002, "director": "Paul Thomas Anderson", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Hearts of Darkness", "year": 1991, "director": "Eleanor Coppola", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Taste of Cherry", "year": 1997, "director": "Abbas Kiarostami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Un prophete", "year": 2009, "director": "Jacques Audiard", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "My Dinner with André", "year": 1981, "director": "Louis Malle", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Yi Yi", "year": 2000, "director": "Edward Yang", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "There Will Be Blood", "year": 2007, "director": "Paul Thomas Anderson", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Heat", "year": 1995, "director": "Michael Mann", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Dreams", "year": 1990, "director": "Akira Kurosawa", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "20000 especies de abejas", "year": 2023, "director": "Estibaliz Urresola Solaguren", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Nausicaä del Valle del Viento", "year": 1984, "director": "Hayao Miyazaki", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Spider-Man: Across the Spider-Verse", "year": 2023, "director": "Joaquim Dos Santos", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Asteroid City", "year": 2023, "director": "Wes Anderson", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Gone Girl", "year": 2014, "director": "David Fincher", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Oppenheimer", "year": 2023, "director": "Christopher Nolan", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Barbie", "year": 2023, "director": "Greta Gerwig", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Rashomon", "year": 1950, "director": "Akira Kurosawa", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Boiling Point", "year": 2021, "director": "Philip Barantini", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Air", "year": 2023, "director": "Ben Affleck", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Blue Velvet", "year": 1986, "director": "David Lynch", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Nocturnal Animals", "year": 2016, "director": "Tom Ford", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Past Lives", "year": 2023, "director": "Celine Song", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Cure", "year": 1997, "director": "Kiyoshi Kurosawa", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Enter the Dragon", "year": 1973, "director": "Robert Clouse", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Searchers", "year": 1956, "director": "John Ford", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Tampopo", "year": 1985, "director": "Jūzō Itami", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Portrait of a Lady on Fire", "year": 2019, "director": "Céline Sciamma", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Whisper of the Heart", "year": 1995, "director": "Yoshifumi Kondō", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Creatura", "year": 2023, "director": "Elena Martín Gimeno", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Burning", "year": 2018, "director": "Lee Chang-dong", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "When Harry Met Sally…", "year": 1989, "director": "Rob Reiner", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Mi vecino Totoro", "year": 1988, "director": "Hayao Miyazaki", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "No One Will Save You", "year": 2023, "director": "Brian Duffield", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Ichi the Killer", "year": 2001, "director": "Takashi Miike", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Creator", "year": 2023, "director": "Gareth Edwards", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Cerrar los ojos", "year": 2023, "director": "Víctor Erice", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Monster", "year": 2023, "director": "Hirokazu Koreeda", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "One Cut of the Dead", "year": 2017, "director": "Shinichiro Ueda", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Killers of the Flower Moon", "year": 2023, "director": "Martin Scorsese", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Carrie", "year": 1976, "director": "Brian De Palma", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Old", "year": 2021, "director": "M. Night Shyamalan", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Crazy Stupid Love", "year": 2011, "director": "Glenn Ficarra", "dateWatched": "2023-12-31", "posterUrl": "/default-poster.png" },
-
-  { "title": "Mass", "year": 2021, "director": "Fran Kranz", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Don't Look Up", "year": 2021, "director": "Adam McKay", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Drive My Car", "year": 2021, "director": "Ryūsuke Hamaguchi", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Power of the Dog", "year": 2021, "director": "Jane Campion", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Worst Person in the World", "year": 2021, "director": "Joachim Trier", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "10 Cloverfield Lane", "year": 2016, "director": "Dan Trachtenberg", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Raging Bull", "year": 1980, "director": "Martin Scorsese", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Godfather", "year": 1972, "director": "Francis Ford Coppola", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Last Temptation of Christ", "year": 1988, "director": "Martin Scorsese", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Batman", "year": 2022, "director": "Matt Reeves", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "A Serious Man", "year": 2009, "director": "Joel and Ethan Coen", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "North by Northwest", "year": 1959, "director": "Alfred Hitchcock", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Paths of Glory", "year": 1957, "director": "Stanley Kubrick", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Come and See", "year": 1985, "director": "Elem Klímov", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Northman", "year": 2022, "director": "Robert Eggers", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Compartment No. 6", "year": 2021, "director": "Juho Kuosmanen", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Thing", "year": 1982, "director": "John Carpenter", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Everything Everywhere All at Once", "year": 2022, "director": "Dan Kwan, Daniel Scheinert", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Warriors", "year": 1979, "director": "Walter Hill", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Do the Right Thing", "year": 1989, "director": "Spike Lee", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Nope", "year": 2022, "director": "Jordan Peele", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "All About Lily Chou Chou", "year": 2001, "director": "Shunji Iwai", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Get Out", "year": 2017, "director": "Jordan Peele", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Frances Ha", "year": 2012, "director": "Noah Baumbach", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Rogue One", "year": 2016, "director": "Gareth Edwards", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "El sur", "year": 1983, "director": "Victor Erice", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "As bestas", "year": 2022, "director": "Rodrigo Sorogoyen", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Alcarràs", "year": 2022, "director": "Carla Simón", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Days of Being Wild", "year": 1990, "director": "Wong Kar-wai", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Menu", "year": 2022, "director": "Mark Mylod", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "El verdugo", "year": 1963, "director": "Luis García Berlanga", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Happy Together", "year": 1997, "director": "Wong Kar-wai", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Boogie Nights", "year": 1997, "director": "Paul Thomas Anderson", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Aftersun", "year": 2022, "director": "Charlotte Wells", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Home Alone 2", "year": 1992, "director": "Chris Columbus", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Klaus", "year": 2019, "director": "Sergio Pablos", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Glass Onion: A Knives Out Mystery", "year": 2022, "director": "Rían Johnson", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Pearl", "year": 2022, "director": "Ti West", "dateWatched": "2022-12-31", "posterUrl": "/default-poster.png" },
-
-  { "title": "Lawrence of Arabia", "year": 1962, "director": "David Lean", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Social Network", "year": 2010, "director": "David Fincher", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Karate Kid", "year": 1984, "director": "John G. Avildsen", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Café Society", "year": 2016, "director": "Woody Allen", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Y tu mamá también", "year": 2001, "director": "Alfonso Cuarón", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "La Grande Bellezza", "year": 2013, "director": "Paolo Sorrentino", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Tangerine", "year": 2015, "director": "Sean Baker", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Mandy", "year": 2018, "director": "Panos Cosmatos", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Malcolm & Marie", "year": 2021, "director": "Sam Levinson", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "28 Days Later", "year": 2002, "director": "Danny Boyle", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Seven Samurai", "year": 1954, "director": "Akira Kurosawa", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Pokémon: Mewtwo contraataca", "year": 1998, "director": "Kunihiko Yuyama", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Groundhog Day", "year": 1993, "director": "Harold Ramis", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Promising Young Woman", "year": 2020, "director": "Emerald Fennell", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Make Happy", "year": 2016, "director": "Bo Burnham", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Inside", "year": 2021, "director": "Bo Burnham", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "I Origins", "year": 2014, "director": "Mike Cahill", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "My Octopus Teacher", "year": 2020, "director": "Pippa Ehrlich", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "La librería", "year": 2017, "director": "Isabel Coixet", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Spider-man 1", "year": 2002, "director": "Sam Raimi", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Spider-man 2", "year": 2004, "director": "Sam Raimi", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Dune", "year": 1984, "director": "David Lynch", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "12 Monkeys", "year": 1995, "director": "Terry Gilliam", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Arrival", "year": 2015, "director": "Denis Villeneuve", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Vivarium", "year": 2019, "director": "Lorcan Finnegan", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Bleu", "year": 1993, "director": "Krzysztof Kieślowski", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Dune", "year": 2021, "director": "Denis Villeneuve", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Goodnight Mommy", "year": 2014, "director": "Veronika Franz", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Vertigo", "year": 1958, "director": "Alfred Hitchcock", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Hausu", "year": 1977, "director": "Nobuhiko Obayashi", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Killing of a Sacred Deer", "year": 2017, "director": "Yorgos Lanthimos", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Tesis", "year": 1996, "director": "Alejandro Amenábar", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "El séptimo sello", "year": 1957, "director": "Ingmar Bergman", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Straight Story", "year": 1999, "director": "David Lynch", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Last Night in Soho", "year": 2021, "director": "Edgar Wright", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "È stata la mano di Dio", "year": 2021, "director": "Paolo Sorrentino", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Spider-Man: No Way Home", "year": 2021, "director": "Jon Watts", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "House of Gucci", "year": 2021, "director": "Ridley Scott", "dateWatched": "2021-12-31", "posterUrl": "/default-poster.png" },
-
-  { "title": "Holy Motors", "year": 2012, "director": "Léos Carax", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Children of Men", "year": 2006, "director": "Alfonso Cuarón", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "1917", "year": 2019, "director": "Sam Mendes", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Lighthouse", "year": 2019, "director": "Robert Eggers", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Howl's Moving Castle", "year": 2004, "director": "Hayao Miyazaki", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Paris, Texas", "year": 1984, "director": "Win Wenders", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "What We Do in the Shadows", "year": 2014, "director": "Taika Waititi", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "12 Angry Men", "year": 1958, "director": "Sidney Lumet", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "La La Land", "year": 2016, "director": "Damien Chazelle", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Apartment", "year": 1960, "director": "Billy Wilder", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Citizen Kane", "year": 1941, "director": "Orson Welles", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Being John Malkovich", "year": 1999, "director": "Spike Jonze", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Breakfast Club", "year": 1985, "director": "John Hughes", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Man from Earth", "year": 2007, "director": "Richard Schenkman", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Les 400 Coups", "year": 1959, "director": "François Truffaut", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "East of Eden", "year": 1955, "director": "Elia Kazan", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "American Beauty", "year": 1999, "director": "Sam Mendes", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Paprika", "year": 2006, "director": "Satoshi Kon", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Oldboy", "year": 2003, "director": "Park Chan-wook", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Battle Royale", "year": 2000, "director": "Finji Fukasaku", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Cidade de Deus", "year": 2002, "director": "Fernando Meirelles", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Stand by Me", "year": 1986, "director": "Rob Reiner", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Chronicle", "year": 2012, "director": "Josh Trank", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "La Haine", "year": 1995, "director": "Mathieu Kassovitz", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Hateful Eight", "year": 2015, "director": "Quentin Tarantino", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Eastern Promises", "year": 2007, "director": "David Cronenberg", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "No Country for Old Men", "year": 2007, "director": "Coen Brothers", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Good Morning", "year": 1959, "director": "Yasujirō Ozu", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Mulholland Drive", "year": 2001, "director": "David Lynch", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "La Planète Sauvage", "year": 1974, "director": "René Laloux", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Lock, Stock and Two Smoking Barrels", "year": 1998, "director": "Guy Ritchie", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Elephant Man", "year": 1980, "director": "David Lynch", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "I Saw the Devil", "year": 2010, "director": "Kim Ji-woon", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Invisible Man", "year": 2020, "director": "Leigh Whannell", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "This is England", "year": 2006, "director": "Shane Meadows", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Canino", "year": 2009, "director": "Yorgos Lanthimos", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Three Billboards Outside Ebbing, Missouri", "year": 2017, "director": "Martin McDonagh", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Pierrot le Fou", "year": 1965, "director": "Jean-Luc Godard", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Coherence", "year": 2013, "director": "James Ward Byrkit", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Yojimbo", "year": 1961, "director": "Akira Kurosawa", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Wailing", "year": 2016, "director": "Na Hong Jin", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Sanjuro", "year": 1962, "director": "Akira Kurosawa", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Bad Tutor", "year": 2018, "director": "Jeff Hare", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Rebels of the Neon God", "year": 1992, "director": "Tsai Ming-Liang", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Funny Games", "year": 1997, "director": "Michael Haneke", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Los santos inocentes", "year": 1984, "director": "Mario Camus", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Dos hermanas", "year": 2003, "director": "Kim Ji-woon", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Misery", "year": 2020, "director": "Rob Reiner", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Bienvenido Mister Marshall", "year": 1953, "director": "Luis García Berlanga", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Biutiful", "year": 2010, "director": "Alejandro González Iñarritu", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Invitation", "year": 2015, "director": "Karyn Kusama", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Tenet", "year": 2020, "director": "Christopher Nolan", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Witch", "year": 2015, "director": "Robert Eggers", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Hereditary", "year": 2018, "director": "Ari Aster", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "American Psycho", "year": 2000, "director": "Mary Harron", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Ritual", "year": 2017, "director": "David Bruckner", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Devil All the Time", "year": 2020, "director": "Antonio Campos", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Scum", "year": 1979, "director": "Alan Clarke", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Borat Subsequent Moviefilm", "year": 2020, "director": "Sacha Baron-Cohen", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Shutter Island", "year": 2010, "director": "Martin Scorsese", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Les Amants du Pont-Neuf", "year": 1991, "director": "Leos Carax", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Possessor", "year": 2020, "director": "Brandon Cronenberg", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Chungking Express", "year": 1994, "director": "Wong Kar-wai", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Elephant", "year": 2003, "director": "Gus Van Sant", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Fallen Angels", "year": 1995, "director": "Wong Kar-wai", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Akira", "year": 1988, "director": "Katsuhiro Otomo", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "Another Round", "year": 2020, "director": "Thomas Vinterberg", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png" },
-  { "title": "The Trial of the Chicago 7", "year": 2020, "director": "Aaron Sorkin", "dateWatched": "2020-12-31", "posterUrl": "/default-poster.png"  }
+  {
+    "title": "El milagro de P. Tinto",
+    "year": 1998,
+    "director": "Javier Fesser",
+    "dateWatched": "2025-01-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La guitarra flamenca de Yerai Cortés",
+    "year": 2024,
+    "director": "C. Tangana",
+    "dateWatched": "2025-01-10",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A Real Pain",
+    "year": 2024,
+    "director": "Jesse Eisenberg",
+    "dateWatched": "2025-01-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Conclave",
+    "year": 2024,
+    "director": "Edward Berger",
+    "dateWatched": "2025-02-02",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Brutalist",
+    "year": 2024,
+    "director": "Brady Corbet",
+    "dateWatched": "2025-02-05",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Cómo hacerse millonario antes de que muera la abuela",
+    "year": 2024,
+    "director": "Pat Boonnitipat",
+    "dateWatched": "2025-02-09",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Heretic",
+    "year": 2024,
+    "director": "Scott Beck, Bryan Woods",
+    "dateWatched": "2025-02-13",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Incendies",
+    "year": 2010,
+    "director": "Denis Villeneuve",
+    "dateWatched": "2025-02-27",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mickey 17",
+    "year": 2025,
+    "director": "Bong Joonho",
+    "dateWatched": "2025-03-07",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "director": "David Lynch",
+    "dateWatched": "2025-03-12",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Bowling for Columbine",
+    "year": 2002,
+    "director": "Michael Moore",
+    "dateWatched": "2025-05-04",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "director": "Ryan Coogler",
+    "dateWatched": "2025-05-08",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Partir un jour",
+    "year": 2025,
+    "director": "Amelie Bonnin",
+    "dateWatched": "2025-05-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Sound of Falling",
+    "year": 2025,
+    "director": "Mascha Schilinski",
+    "dateWatched": "2025-05-15",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Two Prosecutors",
+    "year": 2025,
+    "director": "Sergei Loznitsa",
+    "dateWatched": "2025-05-15",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La misteriosa mirada del flamenco",
+    "year": 2025,
+    "director": "Diego Céspedes",
+    "dateWatched": "2025-05-16",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Sirat",
+    "year": 2025,
+    "director": "Oliver Laxe",
+    "dateWatched": "2025-05-16",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "A Pale View of Hills",
+    "year": 2025,
+    "director": "Kei Ishikawa",
+    "dateWatched": "2025-05-16",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mysterious Skin",
+    "year": 2004,
+    "director": "Gregg Araki",
+    "dateWatched": "2025-05-29",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Rogue One",
+    "year": 2016,
+    "director": "Gareth Edwards",
+    "dateWatched": "2025-05-30",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Final Destination Bloodlines",
+    "year": 2025,
+    "director": "Zach Lipovsky",
+    "dateWatched": "2025-06-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Companion",
+    "year": 2025,
+    "director": "Drew Hancock",
+    "dateWatched": "2025-06-22",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "director": "Danny Boyle",
+    "dateWatched": "2025-06-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "28 Days Later",
+    "year": 2002,
+    "director": "Danny Boyle",
+    "dateWatched": "2025-06-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "director": "Jared Hess",
+    "dateWatched": "2025-06-26",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La Pianiste",
+    "year": 2001,
+    "director": "Michael Haneke",
+    "dateWatched": "2025-06-27",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "28 Weeks Later",
+    "year": 2007,
+    "director": "Juan Carlos Fresnadillo",
+    "dateWatched": "2025-07-02",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "First Reformed",
+    "year": 2017,
+    "director": "Paul Schrader",
+    "dateWatched": "2025-07-03",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "28 Years Later",
+    "year": 2025,
+    "director": "Danny Boyle",
+    "dateWatched": "2025-07-04",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A Woman Under the Influence",
+    "year": 1974,
+    "director": "John Cassavetes",
+    "dateWatched": "2025-07-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Superman",
+    "year": 2025,
+    "director": "James Gunn",
+    "dateWatched": "2025-07-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Paterson",
+    "year": 2016,
+    "director": "Jim Jarmusch",
+    "dateWatched": "2025-07-30",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Audition",
+    "year": 1999,
+    "director": "Takashi Miike",
+    "dateWatched": "2025-07-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bring Her Back",
+    "year": 2025,
+    "director": "Danny and Michael Philippou",
+    "dateWatched": "2025-08-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La Chimera",
+    "year": 2023,
+    "director": "Alice Rohrwacher",
+    "dateWatched": "2025-08-07",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Mishima: A Life in Four Chapters",
+    "year": 1985,
+    "director": "Paul Schrader",
+    "dateWatched": "2025-08-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Red Rocket",
+    "year": 2021,
+    "director": "Sean Baker",
+    "dateWatched": "2025-08-13",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Weapons",
+    "year": 2025,
+    "director": "Zach Cregger",
+    "dateWatched": "2025-08-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "dateWatched": "2025-08-15",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Pulse",
+    "year": 2001,
+    "director": "Kiyoshi Kurosawa",
+    "dateWatched": "2025-08-16",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Scary Movie",
+    "year": 2000,
+    "director": "Keenen Ivory Wayans",
+    "dateWatched": "2025-08-17",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Already Tomorrow in Hong Kong",
+    "year": 2015,
+    "director": "Emily Ting",
+    "dateWatched": "2025-08-18",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Les Glaneurs et la Glaneuse",
+    "year": 2000,
+    "director": "Agnès Varda",
+    "dateWatched": "2025-08-22",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Blow Up",
+    "year": 1966,
+    "director": "Michelangelo Antonioni",
+    "dateWatched": "2025-08-24",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Beau Travail",
+    "year": 1999,
+    "director": "Claire Denis",
+    "dateWatched": "2025-08-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Medianeras",
+    "year": 2011,
+    "director": "Gustavo Taretto",
+    "dateWatched": "2025-08-26",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Good Time",
+    "year": 2017,
+    "director": "Benny Safdie, Joshua Safdie",
+    "dateWatched": "2025-08-28",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Unknown Number: The High School Catfish",
+    "year": 2025,
+    "director": "Skye Borgman",
+    "dateWatched": "2025-08-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Jesus Camp",
+    "year": 2006,
+    "director": "Heidi Ewing, Rachel Grady",
+    "dateWatched": "2025-09-01",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2025-09-03",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Tar",
+    "year": 2022,
+    "director": "Todd Field",
+    "dateWatched": "2025-09-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Act of Killing",
+    "year": 2012,
+    "director": "Joshua Oppenheimer",
+    "dateWatched": "2025-09-06",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Romeria",
+    "year": 2025,
+    "director": "Carla Simón",
+    "dateWatched": "2025-09-10",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Lilo & Stitch",
+    "year": 2025,
+    "director": "Dean Fleischer Camp",
+    "dateWatched": "2025-09-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Ju-On: The Grudge",
+    "year": 2002,
+    "director": "Takashi Shimizu",
+    "dateWatched": "2025-09-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Others",
+    "year": 2001,
+    "director": "Alejandro Amenábar",
+    "dateWatched": "2025-09-20",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Elephant",
+    "year": 2003,
+    "director": "Gus Van Sant",
+    "dateWatched": "2025-09-20",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Eddington",
+    "year": 2025,
+    "director": "Ari Aster",
+    "dateWatched": "2025-09-23",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "One Battle After Another",
+    "year": 2025,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2025-09-26",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Playtime",
+    "year": 1967,
+    "director": "Jacques Tati",
+    "dateWatched": "2025-09-30",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "director": "Tobe Hooper",
+    "dateWatched": "2025-10-01",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "It's Such a Beautiful Day",
+    "year": 2012,
+    "director": "Don Hertzfeldt",
+    "dateWatched": "2025-10-01",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Rosemary’s Baby",
+    "year": 1968,
+    "director": "Roman Polanski",
+    "dateWatched": "2025-10-02",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Lake Mungo",
+    "year": 2008,
+    "director": "Joel Anderson",
+    "dateWatched": "2025-10-03",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "director": "John Carpenter",
+    "dateWatched": "2025-10-05",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Thin Blue Line",
+    "year": 1988,
+    "director": "Errol Morris",
+    "dateWatched": "2025-10-07",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Smashing Machine",
+    "year": 2025,
+    "director": "Benny Safdie",
+    "dateWatched": "2025-10-08",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Twinless",
+    "year": 2025,
+    "director": "James Sweeney",
+    "dateWatched": "2025-10-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "director": "William Friedkin",
+    "dateWatched": "2025-10-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Anatomía de una caída",
+    "year": 2023,
+    "director": "Justine Triet",
+    "dateWatched": "2024-01-02",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Fallen Leaves",
+    "year": 2023,
+    "director": "Aki Kaurismäki",
+    "dateWatched": "2024-01-03",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La sociedad de la nieve",
+    "year": 2023,
+    "director": "J.A. Bayona",
+    "dateWatched": "2024-01-05",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Saltburn",
+    "year": 2023,
+    "director": "Emerald Fennell",
+    "dateWatched": "2024-01-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Perfect Days",
+    "year": 2023,
+    "director": "Wim Wenders",
+    "dateWatched": "2024-01-13",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Redeem Team",
+    "year": 2022,
+    "director": "Jon Weinbach",
+    "dateWatched": "2024-01-26",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Poor Things",
+    "year": 2023,
+    "director": "Yorgos Lanthimos",
+    "dateWatched": "2024-01-28",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Holdovers",
+    "year": 2023,
+    "director": "Alexander Payne",
+    "dateWatched": "2024-01-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Dream Scenario",
+    "year": 2023,
+    "director": "Kristoffer Borgli",
+    "dateWatched": "2024-02-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Zone of Interest",
+    "year": 2023,
+    "director": "Jonathan Glazer",
+    "dateWatched": "2024-02-23",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "director": "Dennis Villeneuve",
+    "dateWatched": "2024-03-01",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La estrella azul",
+    "year": 2023,
+    "director": "Javier Macipe",
+    "dateWatched": "2024-03-17",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "year": 1992,
+    "director": "David Lynch",
+    "dateWatched": "2024-03-27",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Twin Peaks: The Missing Pieces",
+    "year": 2014,
+    "director": "David Lynch",
+    "dateWatched": "2024-03-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "year": 2024,
+    "director": "Rose Glass",
+    "dateWatched": "2024-04-19",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Stop Making Sense",
+    "year": 1984,
+    "director": "Jonathan Demme",
+    "dateWatched": "2024-04-21",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "dateWatched": "2024-05-19",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "director": "Richard Linklater",
+    "dateWatched": "2024-05-22",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "After Hours",
+    "year": 1985,
+    "director": "Martin Scorsese",
+    "dateWatched": "2024-05-27",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Master",
+    "year": 2012,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2024-05-28",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Late Night with the Devil",
+    "year": 2024,
+    "director": "Cameron & Colin Cairnes",
+    "dateWatched": "2024-06-03",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Haikyuu The Dumpster Battle",
+    "year": 2024,
+    "director": "Susumu Mitsunaka",
+    "dateWatched": "2024-06-04",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "El secreto de sus ojos",
+    "year": 2009,
+    "director": "Juan José Campanella",
+    "dateWatched": "2024-06-08",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Challengers",
+    "year": 2024,
+    "director": "Luca Guadagnino",
+    "dateWatched": "2024-06-08",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Lost Highway",
+    "year": 1997,
+    "director": "David Lynch",
+    "dateWatched": "2024-06-22",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Decision to Leave",
+    "year": 2022,
+    "director": "Park Chanwook",
+    "dateWatched": "2024-06-23",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford-Coppola",
+    "dateWatched": "2024-06-24",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "director": "Francis Ford-Coppola",
+    "dateWatched": "2024-06-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "director": "Francis Ford-Coppola",
+    "dateWatched": "2024-06-26",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Before Sunset",
+    "year": 2004,
+    "director": "Richard Linklater",
+    "dateWatched": "2024-07-26",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Petite Maman",
+    "year": 2021,
+    "director": "Céline Sciamma",
+    "dateWatched": "2024-07-27",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Harakiri",
+    "year": 1962,
+    "director": "Masaki Kobayashi",
+    "dateWatched": "2024-07-28",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Longlegs",
+    "year": 2024,
+    "director": "Oz Perkins",
+    "dateWatched": "2024-08-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "El conde de Montecristo",
+    "year": 2024,
+    "director": "Alexandre de La Patellière, Matthieu Delaporte",
+    "dateWatched": "2024-08-13",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Hoop Dreams",
+    "year": 1994,
+    "director": "Steve James",
+    "dateWatched": "2024-08-15",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Inland Empire",
+    "year": 2006,
+    "director": "David Lynch",
+    "dateWatched": "2024-08-24",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Before Midnight",
+    "year": 2013,
+    "director": "Richard Linklater",
+    "dateWatched": "2024-08-26",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Immaculate",
+    "year": 2024,
+    "director": "Michael Mohan",
+    "dateWatched": "2024-09-03",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "El infierno del odio",
+    "year": 1963,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2024-09-09",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "dateWatched": "2024-09-10",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bottoms",
+    "year": 2023,
+    "director": "Emma Seligman",
+    "dateWatched": "2024-09-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "director": "Charles Laughton",
+    "dateWatched": "2024-09-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Phantom Thread",
+    "year": 2017,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2024-09-16",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Licorice Pizza",
+    "year": 2021,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2024-09-19",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Beach",
+    "year": 2000,
+    "director": "Danny Boyle",
+    "dateWatched": "2024-09-23",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Hard Eight",
+    "year": 1996,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2024-09-24",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "director": "Wong Kar Wai",
+    "dateWatched": "2024-09-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "director": "Park Chanwook",
+    "dateWatched": "2024-09-26",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Megalopolis",
+    "year": 2024,
+    "director": "Francis Ford Coppola",
+    "dateWatched": "2024-09-27",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Inherent Vice",
+    "year": 2014,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2024-10-01",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Silence",
+    "year": 2016,
+    "director": "Martin Scorsese",
+    "dateWatched": "2024-10-02",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Chime",
+    "year": 2024,
+    "director": "Kiyoshi Kurosawa",
+    "dateWatched": "2024-10-02",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Hangover Part II",
+    "year": 2011,
+    "director": "Todd Phillips",
+    "dateWatched": "2024-10-05",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Evil Does Not Exist",
+    "year": 2023,
+    "director": "Ryūsuke Hamaguchi",
+    "dateWatched": "2024-10-05",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Wild at Heart",
+    "year": 1990,
+    "director": "David Lynch",
+    "dateWatched": "2024-10-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Aguirre, la cólera de Dios",
+    "year": 1972,
+    "director": "Werner Herzog",
+    "dateWatched": "2024-10-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Ikiru",
+    "year": 1952,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2024-10-07",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Ghost Dog",
+    "year": 1999,
+    "director": "Jim Jarmusch",
+    "dateWatched": "2024-10-09",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Substance",
+    "year": 2024,
+    "director": "Coralie Fargeat",
+    "dateWatched": "2024-10-13",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Wild Robot",
+    "year": 2024,
+    "director": "Chris Sanders",
+    "dateWatched": "2024-10-23",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Anora",
+    "year": 2024,
+    "director": "Sean Baker",
+    "dateWatched": "2024-11-20",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "I Saw the TV Glow",
+    "year": 2024,
+    "director": "Jane Schoenbrun",
+    "dateWatched": "2024-11-24",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "His Three Daughters",
+    "year": 2024,
+    "director": "Azazel Jacobs",
+    "dateWatched": "2024-12-06",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Syndromes and a Century",
+    "year": 2006,
+    "director": "Apichatpong Weerasethakul",
+    "dateWatched": "2024-12-10",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "director": "Stanley Kubrick",
+    "dateWatched": "2024-12-20",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Nosferatu",
+    "year": 2024,
+    "director": "Robert Eggers",
+    "dateWatched": "2024-12-26",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "year": 2022,
+    "director": "Martin McDonagh",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Cinco lobitos",
+    "year": 2022,
+    "director": "Alauda Ruiz de Azúa",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Argentina 1985",
+    "year": 2022,
+    "director": "Santiago Mitre",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "I, Daniel Blake",
+    "year": 2016,
+    "director": "Ken Loach",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "director": "Stanley Kubrick",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "director": "Roger Michell",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Babylon",
+    "year": 2022,
+    "director": "Damien Chazelle",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Close",
+    "year": 2022,
+    "director": "Lukas Dhont",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Treasure of Sierra Madre",
+    "year": 1948,
+    "director": "John Huston",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "¿Dónde está la casa de mi amigo?",
+    "year": 1987,
+    "director": "Abbas Kiarostami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Primer plano",
+    "year": 1990,
+    "director": "Abbas Kiarostami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "director": "David Fincher",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Whale",
+    "year": 2022,
+    "director": "Darren Aronofsky",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "director": "Billy Wilder",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Y la vida continúa",
+    "year": 1992,
+    "director": "Abbas Kiarostami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Green Book",
+    "year": 2018,
+    "director": "Peter Farrelly",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A través de los olivos",
+    "year": 1994,
+    "director": "Abbas Kiarostami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Magnolia",
+    "year": 1999,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "director": "Milos Forman",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Quiéreme si te atreves",
+    "year": 2003,
+    "director": "Yann Samuell",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Hearts of Darkness",
+    "year": 1991,
+    "director": "Eleanor Coppola",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Taste of Cherry",
+    "year": 1997,
+    "director": "Abbas Kiarostami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Un prophete",
+    "year": 2009,
+    "director": "Jacques Audiard",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "My Dinner with André",
+    "year": 1981,
+    "director": "Louis Malle",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Yi Yi",
+    "year": 2000,
+    "director": "Edward Yang",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "director": "Michael Mann",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Dreams",
+    "year": 1990,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "20000 especies de abejas",
+    "year": 2023,
+    "director": "Estibaliz Urresola Solaguren",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Nausicaä del Valle del Viento",
+    "year": 1984,
+    "director": "Hayao Miyazaki",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "director": "Joaquim Dos Santos",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Asteroid City",
+    "year": 2023,
+    "director": "Wes Anderson",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "director": "David Fincher",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Barbie",
+    "year": 2023,
+    "director": "Greta Gerwig",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Boiling Point",
+    "year": 2021,
+    "director": "Philip Barantini",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Air",
+    "year": 2023,
+    "director": "Ben Affleck",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "director": "David Lynch",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Nocturnal Animals",
+    "year": 2016,
+    "director": "Tom Ford",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Past Lives",
+    "year": 2023,
+    "director": "Celine Song",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Cure",
+    "year": 1997,
+    "director": "Kiyoshi Kurosawa",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "director": "Robert Clouse",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Searchers",
+    "year": 1956,
+    "director": "John Ford",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Tampopo",
+    "year": 1985,
+    "director": "Jūzō Itami",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "director": "Céline Sciamma",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Whisper of the Heart",
+    "year": 1995,
+    "director": "Yoshifumi Kondō",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Creatura",
+    "year": 2023,
+    "director": "Elena Martín Gimeno",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Burning",
+    "year": 2018,
+    "director": "Lee Chang-dong",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "When Harry Met Sally…",
+    "year": 1989,
+    "director": "Rob Reiner",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mi vecino Totoro",
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "No One Will Save You",
+    "year": 2023,
+    "director": "Brian Duffield",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Ichi the Killer",
+    "year": 2001,
+    "director": "Takashi Miike",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Creator",
+    "year": 2023,
+    "director": "Gareth Edwards",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Cerrar los ojos",
+    "year": 2023,
+    "director": "Víctor Erice",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Monster",
+    "year": 2023,
+    "director": "Hirokazu Koreeda",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "One Cut of the Dead",
+    "year": 2017,
+    "director": "Shinichiro Ueda",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "director": "Martin Scorsese",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Carrie",
+    "year": 1976,
+    "director": "Brian De Palma",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Old",
+    "year": 2021,
+    "director": "M. Night Shyamalan",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Crazy Stupid Love",
+    "year": 2011,
+    "director": "Glenn Ficarra",
+    "dateWatched": "2023-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mass",
+    "year": 2021,
+    "director": "Fran Kranz",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Don't Look Up",
+    "year": 2021,
+    "director": "Adam McKay",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Drive My Car",
+    "year": 2021,
+    "director": "Ryūsuke Hamaguchi",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "director": "Jane Campion",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Worst Person in the World",
+    "year": 2021,
+    "director": "Joachim Trier",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "director": "Dan Trachtenberg",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Last Temptation of Christ",
+    "year": 1988,
+    "director": "Martin Scorsese",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A Serious Man",
+    "year": 2009,
+    "director": "Joel and Ethan Coen",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "director": "Alfred Hitchcock",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "director": "Stanley Kubrick",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "director": "Elem Klímov",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Northman",
+    "year": 2022,
+    "director": "Robert Eggers",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Compartment No. 6",
+    "year": 2021,
+    "director": "Juho Kuosmanen",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "director": "John Carpenter",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "director": "Dan Kwan, Daniel Scheinert",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Warriors",
+    "year": 1979,
+    "director": "Walter Hill",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "director": "Spike Lee",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Nope",
+    "year": 2022,
+    "director": "Jordan Peele",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "All About Lily Chou Chou",
+    "year": 2001,
+    "director": "Shunji Iwai",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Frances Ha",
+    "year": 2012,
+    "director": "Noah Baumbach",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Rogue One",
+    "year": 2016,
+    "director": "Gareth Edwards",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "El sur",
+    "year": 1983,
+    "director": "Victor Erice",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "As bestas",
+    "year": 2022,
+    "director": "Rodrigo Sorogoyen",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Alcarràs",
+    "year": 2022,
+    "director": "Carla Simón",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Days of Being Wild",
+    "year": 1990,
+    "director": "Wong Kar-wai",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Menu",
+    "year": 2022,
+    "director": "Mark Mylod",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "El verdugo",
+    "year": 1963,
+    "director": "Luis García Berlanga",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Happy Together",
+    "year": 1997,
+    "director": "Wong Kar-wai",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Boogie Nights",
+    "year": 1997,
+    "director": "Paul Thomas Anderson",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Aftersun",
+    "year": 2022,
+    "director": "Charlotte Wells",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Home Alone 2",
+    "year": 1992,
+    "director": "Chris Columbus",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Klaus",
+    "year": 2019,
+    "director": "Sergio Pablos",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Glass Onion: A Knives Out Mystery",
+    "year": 2022,
+    "director": "Rían Johnson",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Pearl",
+    "year": 2022,
+    "director": "Ti West",
+    "dateWatched": "2022-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "director": "David Lean",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "director": "John G. Avildsen",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Café Society",
+    "year": 2016,
+    "director": "Woody Allen",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Y tu mamá también",
+    "year": 2001,
+    "director": "Alfonso Cuarón",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "La Grande Bellezza",
+    "year": 2013,
+    "director": "Paolo Sorrentino",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Tangerine",
+    "year": 2015,
+    "director": "Sean Baker",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mandy",
+    "year": 2018,
+    "director": "Panos Cosmatos",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Malcolm & Marie",
+    "year": 2021,
+    "director": "Sam Levinson",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "28 Days Later",
+    "year": 2002,
+    "director": "Danny Boyle",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Pokémon: Mewtwo contraataca",
+    "year": 1998,
+    "director": "Kunihiko Yuyama",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "director": "Harold Ramis",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Promising Young Woman",
+    "year": 2020,
+    "director": "Emerald Fennell",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Make Happy",
+    "year": 2016,
+    "director": "Bo Burnham",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Inside",
+    "year": 2021,
+    "director": "Bo Burnham",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "I Origins",
+    "year": 2014,
+    "director": "Mike Cahill",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "My Octopus Teacher",
+    "year": 2020,
+    "director": "Pippa Ehrlich",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "La librería",
+    "year": 2017,
+    "director": "Isabel Coixet",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Spider-man 1",
+    "year": 2002,
+    "director": "Sam Raimi",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Spider-man 2",
+    "year": 2004,
+    "director": "Sam Raimi",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "director": "David Lynch",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "12 Monkeys",
+    "year": 1995,
+    "director": "Terry Gilliam",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Arrival",
+    "year": 2015,
+    "director": "Denis Villeneuve",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Vivarium",
+    "year": 2019,
+    "director": "Lorcan Finnegan",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Bleu",
+    "year": 1993,
+    "director": "Krzysztof Kieślowski",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Goodnight Mommy",
+    "year": 2014,
+    "director": "Veronika Franz",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "director": "Alfred Hitchcock",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Hausu",
+    "year": 1977,
+    "director": "Nobuhiko Obayashi",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "director": "Yorgos Lanthimos",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Tesis",
+    "year": 1996,
+    "director": "Alejandro Amenábar",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "El séptimo sello",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Straight Story",
+    "year": 1999,
+    "director": "David Lynch",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Last Night in Soho",
+    "year": 2021,
+    "director": "Edgar Wright",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "È stata la mano di Dio",
+    "year": 2021,
+    "director": "Paolo Sorrentino",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "director": "Jon Watts",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "House of Gucci",
+    "year": 2021,
+    "director": "Ridley Scott",
+    "dateWatched": "2021-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Holy Motors",
+    "year": 2012,
+    "director": "Léos Carax",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Children of Men",
+    "year": 2006,
+    "director": "Alfonso Cuarón",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "director": "Sam Mendes",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Lighthouse",
+    "year": 2019,
+    "director": "Robert Eggers",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "director": "Hayao Miyazaki",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "director": "Win Wenders",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "director": "Taika Waititi",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1958,
+    "director": "Sidney Lumet",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "director": "Billy Wilder",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "director": "Orson Welles",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "director": "Spike Jonze",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "director": "John Hughes",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Man from Earth",
+    "year": 2007,
+    "director": "Richard Schenkman",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Les 400 Coups",
+    "year": 1959,
+    "director": "François Truffaut",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "East of Eden",
+    "year": 1955,
+    "director": "Elia Kazan",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "director": "Sam Mendes",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Paprika",
+    "year": 2006,
+    "director": "Satoshi Kon",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Battle Royale",
+    "year": 2000,
+    "director": "Finji Fukasaku",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Cidade de Deus",
+    "year": 2002,
+    "director": "Fernando Meirelles",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "director": "Rob Reiner",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Chronicle",
+    "year": 2012,
+    "director": "Josh Trank",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "La Haine",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "director": "Quentin Tarantino",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Eastern Promises",
+    "year": 2007,
+    "director": "David Cronenberg",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Coen Brothers",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Good Morning",
+    "year": 1959,
+    "director": "Yasujirō Ozu",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "director": "David Lynch",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "La Planète Sauvage",
+    "year": 1974,
+    "director": "René Laloux",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "director": "Guy Ritchie",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "director": "David Lynch",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "I Saw the Devil",
+    "year": 2010,
+    "director": "Kim Ji-woon",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Invisible Man",
+    "year": 2020,
+    "director": "Leigh Whannell",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "This is England",
+    "year": 2006,
+    "director": "Shane Meadows",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Canino",
+    "year": 2009,
+    "director": "Yorgos Lanthimos",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "director": "Martin McDonagh",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Pierrot le Fou",
+    "year": 1965,
+    "director": "Jean-Luc Godard",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Coherence",
+    "year": 2013,
+    "director": "James Ward Byrkit",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Yojimbo",
+    "year": 1961,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Wailing",
+    "year": 2016,
+    "director": "Na Hong Jin",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Sanjuro",
+    "year": 1962,
+    "director": "Akira Kurosawa",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bad Tutor",
+    "year": 2018,
+    "director": "Jeff Hare",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Rebels of the Neon God",
+    "year": 1992,
+    "director": "Tsai Ming-Liang",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Funny Games",
+    "year": 1997,
+    "director": "Michael Haneke",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Los santos inocentes",
+    "year": 1984,
+    "director": "Mario Camus",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Dos hermanas",
+    "year": 2003,
+    "director": "Kim Ji-woon",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Misery",
+    "year": 2020,
+    "director": "Rob Reiner",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bienvenido Mister Marshall",
+    "year": 1953,
+    "director": "Luis García Berlanga",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Biutiful",
+    "year": 2010,
+    "director": "Alejandro González Iñarritu",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Invitation",
+    "year": 2015,
+    "director": "Karyn Kusama",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Tenet",
+    "year": 2020,
+    "director": "Christopher Nolan",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "director": "Robert Eggers",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "director": "Ari Aster",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "American Psycho",
+    "year": 2000,
+    "director": "Mary Harron",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Ritual",
+    "year": 2017,
+    "director": "David Bruckner",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Devil All the Time",
+    "year": 2020,
+    "director": "Antonio Campos",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Scum",
+    "year": 1979,
+    "director": "Alan Clarke",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Borat Subsequent Moviefilm",
+    "year": 2020,
+    "director": "Sacha Baron-Cohen",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "director": "Martin Scorsese",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Les Amants du Pont-Neuf",
+    "year": 1991,
+    "director": "Leos Carax",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Possessor",
+    "year": 2020,
+    "director": "Brandon Cronenberg",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Chungking Express",
+    "year": 1994,
+    "director": "Wong Kar-wai",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Elephant",
+    "year": 2003,
+    "director": "Gus Van Sant",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Fallen Angels",
+    "year": 1995,
+    "director": "Wong Kar-wai",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "director": "Katsuhiro Otomo",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "Another Round",
+    "year": 2020,
+    "director": "Thomas Vinterberg",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": true
+  },
+  {
+    "title": "The Trial of the Chicago 7",
+    "year": 2020,
+    "director": "Aaron Sorkin",
+    "dateWatched": "2020-12-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  }
 ]
