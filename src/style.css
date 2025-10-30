@@ -219,3 +219,9 @@ h1, h2, h3 {
   font-size: 1.1rem;
   margin-left: 0.5rem;
 }
+
+.favoriteNav {
+  color: #eb4e3c; /* red heart */
+  font-size: 1.2em;
+  margin-top: 10%;
+}

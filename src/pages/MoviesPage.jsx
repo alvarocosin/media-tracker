@@ -96,7 +96,6 @@ export default function MoviesPage() {
           </div>
         ))}
   
-      <Link to="/" className="big-button">Back to Home</Link>
     </div>
   );
 }

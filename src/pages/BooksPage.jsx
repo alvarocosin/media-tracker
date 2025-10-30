@@ -5,7 +5,7 @@ export default function BooksPage() {
     return (
         <div>
           <h1>Books</h1>
-          <Link to="/" className="big-button">Back to Home</Link>
+          <h2>Coming Soon!</h2>
         </div>
     );
  }

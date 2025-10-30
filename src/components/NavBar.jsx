@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import { FaHeart } from "react-icons/fa";
 
 export default function NavBar() {
   const location = useLocation();
@@ -28,6 +29,12 @@ export default function NavBar() {
           className={location.pathname === "/albums" ? "active" : ""}
         >
           Albums
+        </Link>
+        <Link 
+          to="/favorites" 
+          className={location.pathname === "/favorites" ? "active" : ""}
+          >
+            Favs
         </Link>
       </div>
     </nav>
