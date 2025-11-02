@@ -13,8 +13,9 @@ export default function MediaCard({ item }) {
         <div className="bottom-info">
           <p className="director">{item.director}</p>
           <p className="meta">{item.year}</p>
-          <p className="watched">{item.dateWatched} {item.fav && <FaHeart className="favorite" />}</p>
+          <p className="watched">{item.dateWatched}</p>
         </div>
+        {item.fav && <FaHeart className="favorite" />}
       </div>
     </div>
   );

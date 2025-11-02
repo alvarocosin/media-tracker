@@ -22,6 +22,8 @@ html, body {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative; /* ⬅️ enable absolute positioning inside */
+  overflow: hidden;
 }
 
 .media-card:hover {
@@ -36,39 +38,46 @@ html, body {
 }
 
 .media-info {
-  padding: 0.5rem;
   display: flex;
   flex-direction: column;
-  height: clamp(120px, 22vw, 160px);
-  font-size: clamp(0.7rem, 1vw, 1rem);
+  justify-content: flex-start;
+  padding: 0.5rem;
+  height: 160px; /* total text area height */
+  box-sizing: border-box;
 }
 
 .media-info h3 {
-  font-size: clamp(0.9rem, 1.4vw, 1rem);
+  font-size: 1rem;
   color: #E7A117;
   margin: 0;
-  margin-top: 10px;
   line-height: 1.2;
+  height: 2.6em; /* reserve space for 2 lines */
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.media-info .bottom-info {
-  margin-top: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 0.1rem;
+.media-info .director {
+  font-size: 0.85rem;
+  color: #ccc;
+  height: 1.2em;
+  margin: 0.6em 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.media-info .director,
 .media-info .meta {
-  font-size: clamp(0.7rem, 0.9vw, 0.9rem);
+  font-size: 0.8rem;
   color: #ddd;
-  margin: 3px;
+  height: 1.2em;
+  margin: 0.2em 0;
 }
 
+/* ⬇️ This ensures "Watched" always sticks to the bottom */
 .media-info .watched {
-  font-size: clamp(0.6rem, 0.8vw, 0.8rem);
+  font-size: 0.75rem;
   color: #999;
-  margin: 0.5;
+  margin-top: 1.4em; /* ⬅️ add space above */
+  height: 1.2em;
 }
 
 /* --- BUTTONS --- */
@@ -256,9 +265,12 @@ h1, h2, h3 {
 
 /* --- FAVORITES --- */
 .favorite {
-  color: #eb4e3c;
-  font-size: 1.1rem;
-  margin-left: 0.5rem;
+  position: absolute; /* ⬅️ place it anywhere inside the card */
+  bottom: 10px;        /* distance from bottom edge */
+  right: 10px;         /* distance from right edge */
+  color: #eb4e3c;     /* heart color */
+  font-size: 1.3rem;
+  z-index: 10;        /* make sure it sits on top */
 }
 
 .favoriteNav {
