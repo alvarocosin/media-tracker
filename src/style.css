@@ -113,11 +113,18 @@ body {
   font-family: "B612", sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: "B612", sans-serif;
   margin-left: 2%;
   color: #E7A117;
   font-size: clamp(1.2rem, 2vw, 1.8rem);
+}
+
+h3 {
+  font-family: "B612", sans-serif;
+  margin-left: 2%;
+  color: #E7A117;
+  font-size: clamp(0.9rem, 2vw, 1.5rem);
 }
 
 /* --- NAVBAR --- */
@@ -279,6 +286,13 @@ h1, h2, h3 {
   margin-top: 10%;
 }
 
+.watched-icon {
+  margin-right: 2px;
+  font-size: 0.9rem;
+  color: #bbb; /* soft gray */
+  vertical-align: sub;
+}
+
 /* --- MOBILE GRID LAYOUT --- */
 @media (max-width: 768px) {
   .media-grid {
@@ -309,5 +323,10 @@ h1, h2, h3 {
   }
   .favorite {
     font-size: 0.7rem;
+  }
+  .watched-icon {
+    margin-right: 2px;
+    font-size: 0.6rem;
+    vertical-align: middle;
   }
 }
