@@ -59,6 +59,12 @@ export default function MoviesPage() {
 
   const groupedMovies = groupMoviesByDate(movies);
 
+  // ✅ Define a fixed month order so sorting works the same everywhere
+  const monthOrder = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ];
+
   return (
     <div>
       {Object.keys(groupedMovies)
@@ -66,26 +72,22 @@ export default function MoviesPage() {
         .map((year) => (
           <div key={year}>
             <h2>{year}</h2>
-  
+
             {Object.keys(groupedMovies[year])
-              .sort(
-                (a, b) =>
-                  new Date(`${b} 1, ${year}`) -
-                  new Date(`${a} 1, ${year}`)
-              ) // 🔹 reverse month order (Dec → Jan)
+              .sort((a, b) => monthOrder.indexOf(b) - monthOrder.indexOf(a)) // 🔹 Safe, consistent sort
               .map((month) => {
                 let sortedMovies = [...groupedMovies[year][month]].sort(
                   (a, b) => new Date(b.dateWatched) - new Date(a.dateWatched)
                 );
-                
-                // 🔹 If all movies have the same date (e.g., no variation), reverse manually
+
+                // 🔹 If all movies have same date, reverse to maintain visual consistency
                 const allDatesEqual = sortedMovies.every(
                   (m) => m.dateWatched === sortedMovies[0].dateWatched
                 );
                 if (allDatesEqual) {
                   sortedMovies = sortedMovies.reverse();
                 }
-  
+
                 return (
                   <div key={month}>
                     <h3>{month}</h3>
@@ -95,7 +97,6 @@ export default function MoviesPage() {
               })}
           </div>
         ))}
-  
     </div>
   );
 }
