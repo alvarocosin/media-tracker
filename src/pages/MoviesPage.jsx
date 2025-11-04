@@ -3,20 +3,26 @@ import MediaGrid from '../components/MediaGrid.jsx';
 import moviesData from '../data/movies.json';
 import { Link } from 'react-router-dom';
 
-// Helper to group movies by year and month
+// ✅ Helper to group movies by year and month index (0–11)
 function groupMoviesByDate(movies) {
   return movies.reduce((acc, movie) => {
     const date = new Date(movie.dateWatched);
     const year = date.getFullYear();
-    const month = date.toLocaleString("default", { month: "long" });
+    const monthIndex = date.getMonth(); // 0 = Jan, 11 = Dec
 
     if (!acc[year]) acc[year] = {};
-    if (!acc[year][month]) acc[year][month] = [];
+    if (!acc[year][monthIndex]) acc[year][monthIndex] = [];
 
-    acc[year][month].push(movie);
+    acc[year][monthIndex].push(movie);
     return acc;
   }, {});
 }
+
+// For displaying readable month names
+const monthNames = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
 
 export default function MoviesPage() {
   const [movies, setMovies] = useState([]);
@@ -59,12 +65,6 @@ export default function MoviesPage() {
 
   const groupedMovies = groupMoviesByDate(movies);
 
-  // ✅ Define a fixed month order so sorting works the same everywhere
-  const monthOrder = [
-    "January", "February", "March", "April", "May", "June",
-    "July", "August", "September", "October", "November", "December"
-  ];
-
   return (
     <div>
       {Object.keys(groupedMovies)
@@ -74,23 +74,22 @@ export default function MoviesPage() {
             <h2>{year}</h2>
 
             {Object.keys(groupedMovies[year])
-              .sort((a, b) => monthOrder.indexOf(b) - monthOrder.indexOf(a)) // 🔹 Safe, consistent sort
-              .map((month) => {
-                let sortedMovies = [...groupedMovies[year][month]].sort(
+              .map(Number) // convert month indexes to numbers
+              .sort((a, b) => b - a) // 🔹 Dec → Jan consistently everywhere
+              .map((monthIndex) => {
+                let sortedMovies = [...groupedMovies[year][monthIndex]].sort(
                   (a, b) => new Date(b.dateWatched) - new Date(a.dateWatched)
                 );
 
-                // 🔹 If all movies have same date, reverse to maintain visual consistency
+                // If all movies have the same date, reverse manually
                 const allDatesEqual = sortedMovies.every(
                   (m) => m.dateWatched === sortedMovies[0].dateWatched
                 );
-                if (allDatesEqual) {
-                  sortedMovies = sortedMovies.reverse();
-                }
+                if (allDatesEqual) sortedMovies = sortedMovies.reverse();
 
                 return (
-                  <div key={month}>
-                    <h3>{month}</h3>
+                  <div key={monthIndex}>
+                    <h3>{monthNames[monthIndex]}</h3>
                     <MediaGrid items={sortedMovies} />
                   </div>
                 );
