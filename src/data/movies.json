@@ -552,6 +552,190 @@
     "fav": false
   },
   {
+    "title": "The Wicker Man",
+    "year": 1973,
+    "director": "Robin Hardy",
+    "dateWatched": "2025-10-19",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Possession",
+    "year": 1981,
+    "director": "Andrzej Zulawski",
+    "dateWatched": "2025-10-22",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "dateWatched": "2025-10-23",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Videodrome",
+    "year": 1983,
+    "director": "David Cronenberg",
+    "dateWatched": "2025-10-27",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Los domingos",
+    "year": 2025,
+    "director": "Alauda Ruiz de Azúa",
+    "dateWatched": "2025-10-29",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bram Stoker's Dracula",
+    "year": 1992,
+    "director": "Francis Ford Coppola",
+    "dateWatched": "2025-10-29",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Noroi: The Curse",
+    "year": 2005,
+    "director": "Koji Shiraishi",
+    "dateWatched": "2025-10-30",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Medium",
+    "year": 2021,
+    "director": "Banjong Pisanthanakun",
+    "dateWatched": "2025-10-31",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Night Is Short, Walk on Girl",
+    "year": 2017,
+    "director": "Masaaki Yuasa",
+    "dateWatched": "2025-11-02",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Sound of Metal",
+    "year": 2019,
+    "director": "Darius Marder",
+    "dateWatched": "2025-11-03",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Frankenstein",
+    "year": 2025,
+    "director": "Guillermo del Toro",
+    "dateWatched": "2025-11-04",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Grizzly Man",
+    "year": 2005,
+    "director": "Werner Herzog",
+    "dateWatched": "2025-11-09",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "The Conversation",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "dateWatched": "2025-11-11",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Nobody Knows",
+    "year": 2004,
+    "director": "Hirokazu Koreeda",
+    "dateWatched": "2025-11-12",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Wings of Desire",
+    "year": 1987,
+    "director": "Wim Wenders",
+    "dateWatched": "2025-11-13",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Ivan’s Childhood",
+    "year": 1962,
+    "director": "Andrei Tarkovsky",
+    "dateWatched": "2025-11-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "year": 2010,
+    "director": "Apichatpong Weerasethakul",
+    "dateWatched": "2025-11-15",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "year": 1991,
+    "director": "Edward Yang",
+    "dateWatched": "2025-11-16",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Nights of Cabiria",
+    "year": 1957,
+    "director": "Federico Fellini",
+    "dateWatched": "2025-11-18",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Opening Night",
+    "year": 1977,
+    "director": "John Cassavetes",
+    "dateWatched": "2025-11-19",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "No Other Choice",
+    "year": 2025,
+    "director": "Park Chanwook",
+    "dateWatched": "2025-11-21",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Bugonia",
+    "year": 2025,
+    "director": "Yorgos Lanthimos",
+    "dateWatched": "2025-11-25",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "Night on Earth",
+    "year": 1991,
+    "director": "Jim Jarmusch",
+    "dateWatched": "2025-11-26",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
     "title": "Anatomía de una caída",
     "year": 2023,
     "director": "Justine Triet",
