@@ -736,6 +736,22 @@
     "fav": false
   },
   {
+    "title": "Sentimental Value",
+    "year": 2025,
+    "director": "Joachim Trier",
+    "dateWatched": "2025-12-07",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "dateWatched": "2025-12-14",
+    "posterUrl": "/default-poster.png",
+    "fav": false
+  },
+  {
     "title": "Anatomía de una caída",
     "year": 2023,
     "director": "Justine Triet",
